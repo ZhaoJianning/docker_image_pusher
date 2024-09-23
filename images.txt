@@ -1,1 +1,1 @@
-svenstaro/miniserve:alpine --platform=linux/amd64
+svenstaro/miniserve:alpine
