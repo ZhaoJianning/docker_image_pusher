@@ -1,5 +1,1 @@
-miniserve
-#支持私库
-svenstaro/miniserve:alpine
-#支持指定架构
---platform=linux/amd64
+svenstaro/miniserve:alpine --platform=linux/amd64
